@@ -1,0 +1,53 @@
+:root {
+  /* Colors */
+  --bg-primary: #FCF9F5; /* Very light warm tint for main background */
+  --bg-secondary: #ffffff; /* White cards */
+  
+  --text-primary: #6A0066; /* Dark purple for headings */
+  --text-secondary: #475569; /* Slate for readable body text */
+  --text-muted: #94a3b8; 
+  
+  --primary: #FF0066; /* Accent Pink */
+  --primary-hover: #d90057; 
+  --primary-light: #fce8f0; 
+  
+  /* User Palette Exact Tokens */
+  --palette-dark: #6A0066;
+  --palette-mid: #934790;
+  --palette-light: #E8D4B7;
+  --palette-accent: #FF0066;
+  
+  --success: #10b981; 
+  --success-light: #d1fae5; 
+  --warning: #f59e0b; 
+  --warning-light: #fef3c7; 
+  --error: #ef4444; 
+  --error-light: #fee2e2; 
+
+  --border: #E8D4B7; /* Use the beige for all subtle borders! */
+  
+  /* Typography */
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  
+  /* Radii */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-full: 9999px;
+
+  /* Elevation / Shadows */
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.05), 0 4px 6px -2px rgba(0, 0, 0, 0.025);
+  
+  /* Spacing */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-10: 40px;
+  --space-12: 48px;
+}

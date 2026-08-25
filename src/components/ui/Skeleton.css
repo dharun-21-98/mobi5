@@ -1,0 +1,29 @@
+.skeleton-card {
+  height: 120px;
+  width: 100%;
+  border-radius: var(--radius-lg);
+  flex: 1;
+}
+
+.skeleton-text {
+  height: 20px;
+  width: 100%;
+  margin-bottom: var(--space-2);
+  border-radius: var(--radius-sm);
+}
+
+.skeleton-text:last-child {
+  width: 80%;
+}
+
+.skeleton-chart {
+  height: 350px;
+  width: 100%;
+  border-radius: var(--radius-lg);
+}
+
+.skeleton-table {
+  height: 400px;
+  width: 100%;
+  border-radius: var(--radius-lg);
+}
